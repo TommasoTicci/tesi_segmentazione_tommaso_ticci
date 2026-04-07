@@ -1,4 +1,5 @@
 data/
 venv/
+test_env/
 .idea/
 *.pth
